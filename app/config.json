@@ -1,0 +1,6 @@
+{
+  "ipinfo_token": "2b0a56e575c102",
+  "ipinfo_url": "http://ipinfo.io/{ip}/geo",
+  "owm_url": "http://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&units=metric&appid={token}",
+  "owm_token": "e602426386ab8c6f5a2d8610c693d6bd"
+}
